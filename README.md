@@ -1,2 +1,1 @@
-# devsecops
-A Curated List of DevSecOps
+# A Curated List of DevSecOps Tools
